@@ -1,4 +1,5 @@
 #pragma once
+#pragma once
 #include <iostream>
 #include <string>
 
@@ -6,4 +7,4 @@
 
 using namespace std;
 
-int count_non_zero_elements(int array[DEFAULT_SIZE], int length);
+int count_elements_great_number(int array[DEFAULT_SIZE], int length, int number);
